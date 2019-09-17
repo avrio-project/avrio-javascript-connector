@@ -1,0 +1,25 @@
+{
+  "name": "avrio-javascript-connector",
+  "version": "1.0.0",
+  "description": "A vanilla javascript library to interface with the network",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avrio-project/avrio-javascript-connector.git"
+  },
+  "author": "TheDevMinerTV",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/avrio-project/avrio-javascript-connector/issues"
+  },
+  "homepage": "https://github.com/avrio-project/avrio-javascript-connector#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
