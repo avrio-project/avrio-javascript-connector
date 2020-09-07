@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/avrio-project/avrio-javascript-connector#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
