@@ -20,7 +20,7 @@
     },
     "homepage": "https://github.com/avrio-project/avrio-javascript-connector#readme",
     "dependencies": {
-        "node-fetch": "^3.1.0",
+        "node-fetch": "^3.2.8",
         "bs58": "^4.0.1"
     },
     "type": "module",
